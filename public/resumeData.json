@@ -2,7 +2,7 @@
   "main": {
     "name": "Francisco Raigoza",
     "description": "Full Stack Developer",
-    "image": "header-background.JPG",
+    "image": "pexels-kaique-rocha-775201.jpg",
     "bio": "My name is Francisco, I'm a Full Stack ReactJS Developer. Currently building awesome applications that display my abilities.",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "frankieraigoza@gmail.com",
@@ -13,7 +13,7 @@
       "state": "CA",
       "zip": "92706"
     },
-    "website": "http://www.timbakerdev.com",
+    "website": "",
     "resumedownload": "https://drive.google.com/file/d/1lBhv1gwRymDh8n0TD3Tn7zPSFyhLeZiz/view?usp=sharing",
     "social": [
       {
