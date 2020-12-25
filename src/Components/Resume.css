@@ -1,0 +1,33 @@
+
+.tech__image {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+
+}
+
+.image {
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    height: 110px;
+    width: 170px;
+}
+
+
+
+.image__express {
+width: 210px;
+}
+
+.image__node {
+    height: 120px;
+}
+
+@media screen and (max-width:375px) {
+    .image {
+        height: 150px;
+        width: 100%;
+    }
+}

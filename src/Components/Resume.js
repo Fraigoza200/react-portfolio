@@ -1,4 +1,5 @@
 import React, { Component } from 'react';
+import "./Resume.css"
 
 class Resume extends Component {
   render() {
@@ -64,11 +65,23 @@ class Resume extends Component {
             <p>{skillmessage}
             </p>
 
-				<div className="bars">
+            
+				{/* <div className="bars">
 				   <ul className="skills">
 					  {skills}
 					</ul>
-				</div>
+				</div> */}
+        <div className="tech__image">
+          <img className='image' src="https://lh3.googleusercontent.com/proxy/C8pc0iJsLTG416MEgjvVsW4f1FDX-GMZi9BPtBEtpFkNnH2ZfqSvkEHNsQayd8Ryxgn6mwKJhN8vuQV8B7qXNbCabjx-M3LsUzSLGzC6oY1W96vpPzf8jU_NhzJYi_lU8F8ZshfNkiowh-9Phxe9ZOkrRA" alt="react__photo"/>
+          <img className='image' src="https://img.stackshare.io/service/7374/react-redux.png" alt="Redux__Logo"/>
+          <img className='image' src="https://lh3.googleusercontent.com/proxy/Yo2bE4bjCKnpVBYDsNAkIj_xP7XvprvFBn-clkXLgVJytijyBi2EPlJURF92oSTEnbuRtHgEjPxFHOhcN5D_CVfsLQg1TVQPcUjdwpbMbEyxMV7_X2F9Zb7I1vYWh-ZIObo5oJLpWUGvmQ" alt="Javascript__Logo"/>
+          <img className='image' src="https://openwebsolutions.in/blog/wp-content/uploads/2018/01/banner-1.jpg" alt="HTML__CSS"/>
+          <img className='image' src="https://www.bloorresearch.com/wp-content/uploads/2013/03/MONGO-DB-logo-300x470-.png" alt="MongoDB"/>
+          <img className='image' src="https://download.logo.wine/logo/MySQL/MySQL-Logo.wine.png" alt="MYSQL__Logo"/>
+          <img className='image' src="https://www.sqlsplus.com/wp-content/uploads/2020/09/NoSQL.jpg" alt="NoSQL__LOGO"/>
+          <img className='image image__node' src="https://img.icons8.com/color/452/nodejs.png" alt="NodeJS__Logo"/>
+          <img className='image image__express' src="https://buttercms.com/static/images/tech_banners/ExpressJS.png" alt="Express__Logo"/>
+        </div>
 			</div>
       </div>
    </section>
