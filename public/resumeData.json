@@ -85,14 +85,14 @@
       {
         "title": "Amazon Clone with Redux",
         "category": "Amazon Clone built with Redux",
-        "image": "",
-        "url": ""
+        "image": "Amazon-HomePage.png",
+        "url": "https://clone-1e1fc.web.app/"
       },
       {
-        "title": "Robinhood Clone",
-        "category": "Robinhood Clone built with ReactJS",
-        "image": "robinhood.jpg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "title": "AirBnb Clone",
+        "category": "AirBnb Clone built with ReactJS",
+        "image": "AirBnb-clone.png",
+        "url": "https://airbnb-clone-7de09.web.app/"
       }
     ]
   },
