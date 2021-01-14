@@ -206,10 +206,11 @@ ul#nav li.current a { color: #F06000; }
    color: #7A7A7A;
 }
 #about .profile-pic {
+   object-fit:contain;
    position: relative;
-   width: 120px;
-   height: 120px;
-   border-radius: 100%;
+   width: 140px;
+   height: 250px;
+   border-radius: 2em;
 }
 #about .contact-details { width: 41.66667%; }
 #about .download {

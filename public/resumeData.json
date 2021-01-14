@@ -2,7 +2,7 @@
   "main": {
     "name": "Francisco Raigoza",
     "description": "Full Stack Developer",
-    "image": "pexels-kaique-rocha-775201.jpg",
+    "image": "selfie2.png",
     "bio": "My name is Francisco, I'm a Full Stack ReactJS Developer. Currently building awesome applications that display my abilities.",
     "contactmessage": "Get in touch with me to receive further details.",
     "email": "frankieraigoza@gmail.com",
@@ -14,7 +14,7 @@
       "zip": "92706"
     },
     "website": "",
-    "resumedownload": "https://drive.google.com/file/d/1lBhv1gwRymDh8n0TD3Tn7zPSFyhLeZiz/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1KFn1wkECNSasd_Mz3Sr-ziN07ACKT4jr/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -93,6 +93,12 @@
         "category": "AirBnb Clone built with ReactJS",
         "image": "AirBnb-clone.png",
         "url": "https://airbnb-clone-7de09.web.app/"
+      }, 
+      {
+        "title" : "Netflix-Clone",
+        "category": "Netflix-Clone built with React Router and TMDB API",
+        "image": "Screenshot (70).png",
+        "url": "https://reverent-lamport-1a5ea1.netlify.app/"
       }
     ]
   },
